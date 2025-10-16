@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishpreet404/DSA/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
