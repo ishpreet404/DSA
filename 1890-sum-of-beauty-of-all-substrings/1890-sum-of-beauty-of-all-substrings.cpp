@@ -2,10 +2,9 @@ class Solution {
 public:
     int beautySum(string s) {
         int beauty=0;
-        int n = s.size();
-        for(int i =0;i<n;i++){
+        for(int i =0;i<s.size();i++){
             unordered_map<char,int> mp;
-            for(int j=i;j<n;j++){
+            for(int j=i;j<s.size();j++){
                 mp[s[j]]++;
                 int maxi=INT_MIN; int mini=INT_MAX;
                 for(auto& it:mp ){
