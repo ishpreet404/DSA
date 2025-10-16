@@ -8,8 +8,8 @@ public:
                 mp[s[j]]++;
                 int maxi=INT_MIN; int mini=INT_MAX;
                 for(auto& it:mp ){
-                 mini=min(it.second,mini);
-                maxi=max(it.second,maxi);
+                if(it.second<=mini) mini=it.second;
+                if(it.second>=maxi) maxi=it.second;
                 }
                 beauty+=maxi-mini;
             }
