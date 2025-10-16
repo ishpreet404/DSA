@@ -13,7 +13,7 @@ public:
                 total-=nums[i];
                 i++;
             }
-           res=max(res,(long long)j-i+1);
+           res=max(res,j-i+1);
            j++;
         }
         return res;
