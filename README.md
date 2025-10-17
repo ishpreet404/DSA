@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishpreet404/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
