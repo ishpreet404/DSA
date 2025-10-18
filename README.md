@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
+| [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
