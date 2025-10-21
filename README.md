@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishpreet404/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ishpreet404/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ishpreet404/DSA/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ishpreet404/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
