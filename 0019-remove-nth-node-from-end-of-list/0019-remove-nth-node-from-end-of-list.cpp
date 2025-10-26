@@ -14,11 +14,11 @@ public:
         ListNode* temp =head;
         if(head==NULL || head->next==NULL) return NULL;
         int count=0;
-        while(temp!=NULL){
+        while(temp!=NULL && temp->next!=NULL){
             temp=temp->next;
             count++;
         }
-        count=count-n-1;
+        count=count-n;
         if(count==-1){
             ListNode* newh =head;
             newh=head->next;
