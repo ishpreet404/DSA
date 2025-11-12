@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ishpreet404/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ishpreet404/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ishpreet404/DSA/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -185,10 +186,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ishpreet404/DSA/tree/master/0657-robot-return-to-origin) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ishpreet404/DSA/tree/master/1791-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
