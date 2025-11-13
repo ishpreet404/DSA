@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
+| [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ishpreet404/DSA/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/ishpreet404/DSA/tree/master/1293-three-consecutive-odds) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ishpreet404/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishpreet404/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ishpreet404/DSA/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
