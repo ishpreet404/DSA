@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ishpreet404/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ishpreet404/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ishpreet404/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String Matching
 |  |
 | ------- |
