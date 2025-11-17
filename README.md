@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ishpreet404/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ishpreet404/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ishpreet404/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ishpreet404/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ishpreet404/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
