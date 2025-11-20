@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishpreet404/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3312-number-of-changing-keys](https://github.com/ishpreet404/DSA/tree/master/3312-number-of-changing-keys) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ishpreet404/DSA/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Greedy
 |  |
 | ------- |
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ishpreet404/DSA/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ishpreet404/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishpreet404/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/ishpreet404/DSA/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
 | ------- |
