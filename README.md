@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ishpreet404/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ishpreet404/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ishpreet404/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
