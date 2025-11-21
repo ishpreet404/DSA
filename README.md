@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/ishpreet404/DSA/tree/master/2812-find-the-maximum-achievable-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ishpreet404/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ishpreet404/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/ishpreet404/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ishpreet404/DSA/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/ishpreet404/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
