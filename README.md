@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ishpreet404/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ishpreet404/DSA/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishpreet404/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ishpreet404/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ishpreet404/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ishpreet404/DSA/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishpreet404/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
