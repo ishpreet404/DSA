@@ -6,7 +6,7 @@ public:
         tot(nums,0,temp);
             return xortotal;
     }
-       void  tot(vector<int>& nums,int idx,vector<int> temp){
+       void  tot(vector<int>& nums,int idx,vector<int> &temp){
         if(idx==nums.size()){
            
        
