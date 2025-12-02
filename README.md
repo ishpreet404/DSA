@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ishpreet404/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/ishpreet404/DSA/tree/master/1791-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/ishpreet404/DSA/tree/master/2058-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ishpreet404/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ishpreet404/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ishpreet404/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Merge Sort
 |  |
@@ -249,13 +252,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishpreet404/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
