@@ -8,9 +8,7 @@ public:
     }
        void  tot(vector<int>& nums,int idx,vector<int> &temp){
         if(idx==nums.size()){
-           
-       
-        int tempxor=0;
+         int tempxor=0;
         for(int i =0; i<temp.size();i++){
             tempxor^=temp[i];
         }
