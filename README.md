@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/ishpreet404/DSA/tree/master/1922-count-good-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ishpreet404/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ishpreet404/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ishpreet404/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ishpreet404/DSA/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
