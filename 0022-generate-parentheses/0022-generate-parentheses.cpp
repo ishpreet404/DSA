@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void gen(int n,vector<string> &ans,string temp,int idx,int open , int close){
+    void gen(int n,vector<string> &ans,string &temp,int idx,int open , int close){
         if(idx>=2*n){
             ans.push_back(temp);
             return;
