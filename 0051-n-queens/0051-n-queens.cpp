@@ -27,7 +27,7 @@ public:
     //         j++;}
     //     }return true;
     // }
-    void solve(vector<string> board,int row,int col,int n){
+    void solve(vector<string> &board,int row,int col,int n){
         if(row>=n){
             result.push_back(board);
             return;
