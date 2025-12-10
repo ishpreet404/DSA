@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishpreet404/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ishpreet404/DSA/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/ishpreet404/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ishpreet404/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ishpreet404/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ishpreet404/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ishpreet404/DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/ishpreet404/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ishpreet404/DSA/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
