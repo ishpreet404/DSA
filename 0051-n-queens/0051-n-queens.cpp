@@ -13,7 +13,7 @@ public:
     void solve(vector<string> &board,int row,int col,int n){
         if(row>=n){
             result.push_back(board);
-            return;
+            
         }
         for(col=0;col<n;col++){
             int diagel = row+col;
