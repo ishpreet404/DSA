@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ishpreet404/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/ishpreet404/DSA/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishpreet404/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishpreet404/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ishpreet404/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishpreet404/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ishpreet404/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ishpreet404/DSA/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ishpreet404/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/ishpreet404/DSA/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
