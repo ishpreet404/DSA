@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/ishpreet404/DSA/tree/master/1922-count-good-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2413-smallest-even-multiple](https://github.com/ishpreet404/DSA/tree/master/2413-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ishpreet404/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ishpreet404/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ishpreet404/DSA/tree/master/2812-find-the-maximum-achievable-number) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ishpreet404/DSA/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
