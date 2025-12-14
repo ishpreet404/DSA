@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishpreet404/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ishpreet404/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3701-compute-alternating-sum](https://github.com/ishpreet404/DSA/tree/master/3701-compute-alternating-sum) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/ishpreet404/DSA/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/ishpreet404/DSA/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ishpreet404/DSA/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/ishpreet404/DSA/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/ishpreet404/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
