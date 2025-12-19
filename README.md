@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ishpreet404/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/ishpreet404/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1791-richest-customer-wealth](https://github.com/ishpreet404/DSA/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ishpreet404/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ishpreet404/DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ishpreet404/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishpreet404/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
