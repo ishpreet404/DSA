@@ -4,13 +4,14 @@ public:
         sort(begin(potions),end(potions));
         vector<int> ans;
         for(int i=0;i<spells.size();i++){
-            ans.push_back(bs(potions,success,spells[i],potions.size()));
+            ans.push_back(bs(potions,success,spells[i]));
         }
         return ans;
     }
-        int bs(vector<int>& nums,long long k,int s,int size){
+        int bs(vector<int>& nums,long long k,int s){
             int low =0;
-        int high=nums.size()-1;
+            int size=nums.size();
+        int high=size-1;
         while(low<=high){
             int mid=low + (high - low) / 2;
             if((long long)nums[mid]*s>=k){
