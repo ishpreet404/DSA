@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ishpreet404/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ishpreet404/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishpreet404/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ishpreet404/DSA/tree/master/0069-sqrtx) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ishpreet404/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ishpreet404/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
