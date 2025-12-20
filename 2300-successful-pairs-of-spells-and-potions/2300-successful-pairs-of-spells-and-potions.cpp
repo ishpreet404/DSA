@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions, long long success) {
         sort(begin(potions),end(potions));
-        auto init = atexit([]() { ofstream("display_runtime.txt") << "1"; });
+      
 
 
         vector<int> ans;
