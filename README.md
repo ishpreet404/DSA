@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ishpreet404/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ishpreet404/DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishpreet404/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishpreet404/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ishpreet404/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ishpreet404/DSA/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishpreet404/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Trie
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ishpreet404/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ishpreet404/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3226-minimum-number-game](https://github.com/ishpreet404/DSA/tree/master/3226-minimum-number-game) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ishpreet404/DSA/tree/master/4112-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
