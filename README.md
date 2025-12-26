@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ishpreet404/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ishpreet404/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/ishpreet404/DSA/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/ishpreet404/DSA/tree/master/1922-count-good-numbers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishpreet404/DSA/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/ishpreet404/DSA/tree/master/1323-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ishpreet404/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ishpreet404/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishpreet404/DSA/tree/master/3074-apple-redistribution-into-boxes) |
