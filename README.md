@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ishpreet404/DSA/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/ishpreet404/DSA/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/ishpreet404/DSA/tree/master/1293-three-consecutive-odds) |
+| [1512-number-of-good-pairs](https://github.com/ishpreet404/DSA/tree/master/1512-number-of-good-pairs) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ishpreet404/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/ishpreet404/DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ishpreet404/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ishpreet404/DSA/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/ishpreet404/DSA/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishpreet404/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/ishpreet404/DSA/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ishpreet404/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1922-count-good-numbers](https://github.com/ishpreet404/DSA/tree/master/1922-count-good-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ishpreet404/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/ishpreet404/DSA/tree/master/0771-jewels-and-stones) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishpreet404/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/ishpreet404/DSA/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishpreet404/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishpreet404/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/ishpreet404/DSA/tree/master/1512-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ishpreet404/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/ishpreet404/DSA/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
