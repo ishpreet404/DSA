@@ -3,11 +3,12 @@ public:
    vector<vector<int>>  answer ;
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-         genSubarray({}, 0, candidates.size(), answer,candidates,target,0);
+        vector<int> temp;
+         genSubarray(temp, 0, candidates.size(), answer,candidates,target,0);
          return answer;
     }
 
- void genSubarray(vector<int> temp,long long idx,int n,vector<vector<int>> &answer,vector<int> &nums,int target,int sum){
+ void genSubarray(vector<int> &temp,long long idx,int n,vector<vector<int>> &answer,vector<int> &nums,int target,int sum){
     // int sum = accumulate(begin(temp),end(temp),0);
     if(sum>target){
         return;
