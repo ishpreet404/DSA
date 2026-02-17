@@ -7,7 +7,7 @@ public:
         solve(ans,0,curr,n,nums);
         return ans;
     }
-    void solve(vector<vector<int>> &ans,int idx, vector<int> curr,int n,vector<int>& nums){
+    void solve(vector<vector<int>> &ans,int idx, vector<int> &curr,int n,vector<int>& nums){
         if(idx>=n){
             ans.push_back(curr);
             return;
@@ -15,5 +15,6 @@ public:
         solve(ans,idx+1,curr,n,nums);
         curr.push_back(nums[idx]);
         solve(ans,idx+1,curr,n,nums);
+        curr.pop_back();
     }
 };
