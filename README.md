@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ishpreet404/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ishpreet404/DSA/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/ishpreet404/DSA/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ishpreet404/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ishpreet404/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ishpreet404/DSA/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ishpreet404/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishpreet404/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ishpreet404/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/ishpreet404/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ishpreet404/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ishpreet404/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ishpreet404/DSA/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/ishpreet404/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishpreet404/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ishpreet404/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/ishpreet404/DSA/tree/master/0645-set-mismatch) |
